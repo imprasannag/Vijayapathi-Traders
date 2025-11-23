@@ -15,7 +15,16 @@
   <div class="container header-content">
     <div class="logo">VIJAYAPATHI TRADERS</div>
     <nav>
-      <ul>
+      <div class="hamburger" onclick="toggleMenu()">☰</div>
+
+    <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="products.html">Products</a>
+    <a href="brands.html">Brands</a>
+    <a href="contact.html">Contact</a>
+</div>
+<ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="index.html#about">About</a></li>
         <li><a href="index.html#products">Products</a></li>
@@ -149,6 +158,12 @@
 </footer>
 
 <script src="assets/js/script.js"></script>
+<script>
+function toggleMenu() {
+  document.querySelector(".nav-links").classList.toggle("nav-active");
+}
+</script>
+
 </body>
 </html>
 
