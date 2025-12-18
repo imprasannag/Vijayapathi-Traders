@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "name": "Electrical Wires",
+    "category": "Electrical",
+    "brand": "All Brands",
+    "description": "High quality electrical wires for home and commercial use",
+    "image": "/images/wire.jpg",
+    "whatsappText": "I need Electrical Wires price"
+  },
+  {
+    "id": 2,
+    "name": "Switches",
+    "category": "Electrical",
+    "brand": "All Brands",
+    "description": "Durable electrical switches",
+    "image": "/images/switches.jpg",
+    "whatsappText": "I need Switches price"
+  },
+  {
+    "id": 3,
+    "name": "Lights",
+    "category": "Electrical",
+    "brand": "All Brands",
+    "description": "Indoor and outdoor lighting solutions",
+    "image": "/images/imglights.jpg",
+    "whatsappText": "I need Lights price"
+  },
+  {
+    "id": 4,
+    "name": "Cement",
+    "category": "Construction",
+    "brand": "All Brands",
+    "description": "High strength cement for construction",
+    "image": "/images/cement.jpg",
+    "whatsappText": "I need Cement price"
+  },
+  
+  {
+    "id": 6,
+    "name": "Bathroom Accessories",
+    "category": "Sanitary Wares",
+    "brand": "All Brands",
+    "description": "Premium bathroom accessories",
+    "image": "/images/bta.jpg",
+    "whatsappText": "I need Bathroom Accessories price"
+  },
+  {
+    "id": 7,
+    "name": "Bathroom Taps",
+    "category": "Sanitary Wares",
+    "brand": "All Brands",
+    "description": "Premium taps for your bathroom",
+    "image": "/images/btt.jpg",
+    "whatsappText": "I need Bathroom Taps price"
+  },
+  {
+    "id": 8,
+    "name": "Sanitary Ware",
+    "category": "Sanitary Wares",
+    "brand": "All Brands",
+    "description": "Complete sanitary ware solutions",
+    "image": "/images/sani.jpg",
+    "whatsappText": "I need Sanitary Ware price"
+  },
+  {
+    "id": 9,
+    "name": "Wash Basin",
+    "category": "Sanitary Wares",
+    "brand": "All Brands",
+    "description": "Modern wash basins",
+    "image": "/images/wash.jpg",
+    "whatsappText": "I need Wash Basin price"
+  },
+  {
+    "id": 10,
+    "name": "Sink",
+    "category": "Sanitary Wares",
+    "brand": "All Brands",
+    "description": "Kitchen and bathroom sinks",
+    "image": "/images/sink.jpg",
+    "whatsappText": "I need Sink price"
+  },
+  {
+    "id": 11,
+    "name": "Shower",
+    "category": "Sanitary Wares",
+    "brand": "All Brands",
+    "description": "Overhead and hand showers",
+    "image": "/images/shower.jpg",
+    "whatsappText": "I need Shower price"
+  },
+  {
+    "id": 12,
+    "name": "Steel Items",
+    "category": "Hardware",
+    "brand": "All Brands",
+    "description": "Steel materials and accessories",
+    "image": "/images/steels.jpg",
+    "whatsappText": "I need Steel Items price"
+  },
+  {
+    "id": 13,
+    "name": "Paints",
+    "category": "Paints",
+    "brand": "All Brands",
+    "description": "Interior and exterior paints",
+    "image": "/images/paints.jpg",
+    "whatsappText": "I need Paints price"
+  },
+  {
+    "id": 14,
+    "name": "Pipes",
+    "category": "Plumbing",
+    "brand": "All Brands",
+    "description": "Plumbing pipes and fittings",
+    "image": "/images/pipes.jpg",
+    "whatsappText": "I need Pipes price"
+  },
+  {
+    "id": 15,
+    "name": "Water Tank",
+    "category": "Plumbing",
+    "brand": "All Brands",
+    "description": "High quality water storage tanks",
+    "image": "/images/watertank.jpeg",
+    "whatsappText": "I need Water Tank price"
+  },
+  {
+    "id": 16,
+    "name": "Motor Pumps",
+    "category": "Motors",
+    "brand": "All Brands",
+    "description": "Sub Motors and Panels",
+    "image": "/images/motor.png",
+    "whatsappText": "I need Motor Pumps price"
+  }
+]
+
